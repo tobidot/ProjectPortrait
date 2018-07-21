@@ -1,0 +1,38 @@
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://tobias.gepp-im-web.de/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       ObjectName
+ Author URI:   http://tobias.gepp-im-web.de
+ Template:     twentyfifteen
+ Version:      0.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         
+ Text Domain:  twenty-fifteen-child
+*/
+
+#lemmings_game {
+    min-width: 200px;
+    min-height: 80px;
+    background: black;
+    color: green;
+} 
+
+#lemmings_game canvas {
+    position: absolute;
+    height: 96%;
+    width: 96%;
+    left: 2%;
+    top: 2%;
+}
+
+.fullscreen {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.98);
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
