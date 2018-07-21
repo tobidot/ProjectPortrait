@@ -1,0 +1,27 @@
+{
+  "name": "wordpress",
+  "version": "1.0.0",
+  "description": "Internet SIte",
+  "main": "index.php",
+  "dependencies": {
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobidot/ProjectPortrait.git"
+  },
+  "keywords": [
+    "javascript",
+    "presantation"
+  ],
+  "author": "tobidot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobidot/ProjectPortrait/issues"
+  },
+  "homepage": "https://github.com/tobidot/ProjectPortrait#readme"
+}
